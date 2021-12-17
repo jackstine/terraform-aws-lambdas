@@ -1,0 +1,23 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+node_modules
+.DS_Store
+sh.exe.stackdump
+Web.config
+.idea
+logs
+log
+.vscode
+config.json
+.work/*
+package-lock.json
+code.zip
+lambda_layer.zip
+com.sh
+.terraform
+terraform.tfstate.d
+.terraform.lock.hcl
+bin/*
+config/config.local.js
+terraform.tfstate
+nodejs
+terraform.tfstate.backup
